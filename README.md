@@ -14,7 +14,7 @@ Then [download and unzip the file above](https://github.com/chrismessina/alfred-
 
 ### Spotify
 
-[![Spotify - Alfred Theme Preview](./assets/spotify-preview.png)](./assets/spotify-light.png)
+[![Spotify - Alfred Theme Preview](./assets/spotify-preview.png)](./assets/spotify-preview.png)
 
 ## Suggested configuration
 
