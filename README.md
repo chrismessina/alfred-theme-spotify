@@ -2,7 +2,7 @@
 
 Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by [Spotify's](https://www.spotify.com/) appearance and color scheme.
 
-[**Download Themes**](https://github.com/chrismessina/alfred-theme-spotify/releases/latest)
+[**Download Theme**](https://github.com/chrismessina/alfred-theme-spotify/releases/latest)
 
 ## Installation
 
@@ -35,4 +35,4 @@ The inspiration for this theme is Spotify:
 
 This theme is unaffiliated with nor endorsed by Spotify, Inc.
 
-<a href="https://www.alfredforum.com/topic/16379-musicapp-inspired-theme/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16380-spotify-inspired-theme/">Alfred Forum link</a>.
